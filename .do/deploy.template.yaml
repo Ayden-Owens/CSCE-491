@@ -1,0 +1,8 @@
+spec:
+  name: CSCE-491
+  services:
+  - environment_slug: node-js
+    git:
+      branch: main
+      repo_clone_url: https://github.com/Ayden-Owens/CSCE-491.git
+    name: CSCE-491

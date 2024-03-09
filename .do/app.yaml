@@ -1,0 +1,8 @@
+name: CSCE-491
+services:
+- environment_slug: node-js
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: Ayden-Owens/CSCE-491
+  name: CSCE-491
